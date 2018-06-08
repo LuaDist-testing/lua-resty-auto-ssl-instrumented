@@ -1,9 +1,16 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "lua-resty-auto-ssl-instrumented"
-version = "0.11.1"
+version = "0.11.1-1"
+-- LuaDist source
 source = {
-  url = "git://github.com/UseFedora/lua-resty-auto-ssl.git",
-  tag = "v0.11.1"
+  tag = "0.11.1-1",
+  url = "git://github.com/LuaDist-testing/lua-resty-auto-ssl-instrumented.git"
 }
+-- Original source
+-- source = {
+--   url = "git://github.com/UseFedora/lua-resty-auto-ssl.git",
+-- }
 description = {
   summary = "Automatic SSL handling for OpenResty",
   detailed = "On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.",
