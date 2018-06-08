@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lua-resty-auto-ssl-instrumented"
-version = "0.11.1-6"
+version = "0.11.1-7"
 -- LuaDist source
 source = {
-  tag = "0.11.1-6",
+  tag = "0.11.1-7",
   url = "git://github.com/LuaDist-testing/lua-resty-auto-ssl-instrumented.git"
 }
 -- Original source
